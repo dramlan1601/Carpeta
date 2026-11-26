@@ -1,3 +1,5 @@
-# Ejercicio 1
+#David Ramírez Lanzas
 
-print("hola mundo")
+amigos = ["Pedro", "Marcos", "Carlos", "Elena", "Sara"]
+
+print(amigos[2])
